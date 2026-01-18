@@ -1,0 +1,10 @@
+# Only track the project folder committed below.
+*
+!.gitignore
+!MFA/
+!MFA/**
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.venv/
